@@ -1,4 +1,4 @@
-## Hi there 👋
+
 <h3 align="left">Hi ! My name is Tomás and I'm a web developer from Argentina living in Barcelona!</h3>
 
 ###
